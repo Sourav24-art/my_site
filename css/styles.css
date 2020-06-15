@@ -43,11 +43,13 @@ h1{
 
 .bottom_cloud{
   position: absolute;
-  width:15%;
-  top:176px;
-  left:23%;
+  width:25%;
+  top:12%;
+  left:16%;
 }
-
+.cloud2{
+  width:60%;  
+}
 
 .profile{
   padding-top: 15px;
