@@ -16,7 +16,6 @@ body{
 
 .top_container{
 padding-top: 6%;
-height: 650px;
 background-color: #aacfcf;
 }
 
@@ -48,12 +47,6 @@ h1{
   left:23%;
 }
 
-.mountain{
-  width:60%;
-  position: absolute;
-  top:25%;
-  left:20%;
-}
 
 .profile{
   padding-top: 15px;
