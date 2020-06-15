@@ -1,0 +1,77 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+
+}
+
+.avatar
+{
+  position: absolute;
+  width: 9%;
+  top: 8%;
+  left: 7%;
+
+}
+
+.top_container{
+padding-top: 6%;
+height: 650px;
+background-color: #aacfcf;
+}
+
+h1{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Sacramento,cursive;
+  font-size: 70px;
+  color:#12947f;
+}
+.p1{
+    position: absolute;
+    left: 45%;
+    top: 24%;
+    font-family: Montserrat,sans-serif;
+    color: #12947f;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.top_cloud{
+  width:15%;
+  position:absolute;
+  top:8%;
+  left:65%;
+}
+
+.bottom_cloud{
+  position: absolute;
+  width:15%;
+  top:25%;
+  left:23%;
+}
+
+.mountain{
+  width:60%;
+  position: absolute;
+  top:25%;
+  left:20%;
+}
+
+.profile{
+  padding-top: 15px;
+}
+
+.skills{
+  height: 450px;
+}
+
+.skill1{
+  position: absolute;
+  left:36%;
+}
+
+.skill2{
+  position: absolute;
+  left:54%;
+}
