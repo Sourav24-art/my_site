@@ -26,13 +26,14 @@ h1{
   font-size: 70px;
   color:#12947f;
 }
+
 .p1{
+
     font-family: Montserrat,sans-serif;
     color: #12947f;
     font-size: 20px;
     display: inline-block;
 }
-
 .top_cloud{
   width:15%;
   position:absolute;
